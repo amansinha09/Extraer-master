@@ -1,4 +1,4 @@
-##Extraer - A Live Translation tool
+# Extraer - A Live Translation tool
 
 Created by Codrops: http://tympanus.net/codrops
 
